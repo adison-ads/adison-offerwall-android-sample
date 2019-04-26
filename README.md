@@ -46,6 +46,6 @@
 
 ------
 
-[Document](https://github.com/nbtpartners/adison_offerwall_sdk_android_sample/wiki/Document)
+[Document](https://github.com/adison-offerwall/adison_offerwall_sdk_android_sample/wiki/Document)
 
 [Release Note]
