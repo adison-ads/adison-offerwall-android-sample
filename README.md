@@ -1,4 +1,6 @@
+
 ## Adison Offerwall SDK
+### Last Release Version : v1.0.48
 
 ### 1. Gradle 설정
 
@@ -18,7 +20,7 @@
   ```
   dependencies {
   	//Offerwall SDK
-      implementation ('co.adison:adison-offerwall-sdk:1.0.48@aar') {
+      implementation ('co.adison:adison-offerwall-sdk:{version}8@aar') {
           //종속성 연동을 위한 값
           transitive = true
       }
@@ -48,4 +50,3 @@
 
 [Document](https://github.com/adison-offerwall/adison_offerwall_sdk_android_sample/wiki/Document)
 
-[Release Note]
