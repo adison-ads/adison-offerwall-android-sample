@@ -1,6 +1,6 @@
 
 ## Adison Offerwall SDK
-### Last Release Version : v1.0.48
+### Last Release Version : v1.0.52
 
 ### 1. Gradle 설정
 
