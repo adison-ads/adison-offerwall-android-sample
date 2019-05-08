@@ -20,7 +20,7 @@
   ```
   dependencies {
   	//Offerwall SDK
-      implementation ('co.adison:adison-offerwall-sdk:{version}8@aar') {
+      implementation ('co.adison:adison-offerwall-sdk:{version}@aar') {
           //종속성 연동을 위한 값
           transitive = true
       }
