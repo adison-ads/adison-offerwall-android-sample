@@ -43,7 +43,7 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 
     // Offerwall SDK
-    implementation ('co.adison:adison-offerwall-sdk:1.3.10@aar') {
+    implementation ('co.adison:adison-offerwall-sdk:1.3.26@aar') {
         // 종속성 연동을 위한 값
         transitive = true
     }
